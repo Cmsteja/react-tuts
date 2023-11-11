@@ -1,0 +1,5 @@
+11/11 :-
+- diff betwween html and jsx
+- function and class
+- state and lifecycle
+-onclick and onsubmit 
