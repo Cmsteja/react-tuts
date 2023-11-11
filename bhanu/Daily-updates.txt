@@ -1,0 +1,10 @@
+11/11/23
+
+components and props
+
+function base components
+
+class base components
+ 
+state & life cycle
+
