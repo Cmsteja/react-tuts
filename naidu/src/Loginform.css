@@ -1,0 +1,33 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    color: blue;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.2);
+    margin-top: 100px;
+    
+}
+input{
+    width: 200px;
+    font-size:25px;
+}
+label{
+    font-weight: 600;
+}
+
+form .submit{
+    background-color:  green;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    height: 30px;
+    width: 120px;
+    border-radius: 15px;
+    border: 1px black solid;
+    
+}
