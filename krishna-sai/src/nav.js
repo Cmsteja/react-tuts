@@ -1,4 +1,5 @@
 import React from 'react'
+import ChildForm from './Childform'
 
 
 
@@ -22,6 +23,7 @@ export default function Nav() {
                     </ul>
                 </div>
             </div>
+            <ChildForm />
         </>
 
     )
